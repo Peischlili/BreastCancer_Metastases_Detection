@@ -1,3 +1,9 @@
+# Do not commit the data folders/files
+supplementary_files/
+train_input/
+test_input/
+training_output_bis_EyawEvU.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
